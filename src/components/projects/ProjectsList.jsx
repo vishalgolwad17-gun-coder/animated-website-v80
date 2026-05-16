@@ -1,4 +1,4 @@
-import React from 'react'
+
 
 const ProjectsList = ({ image1, image2 }) => {
 

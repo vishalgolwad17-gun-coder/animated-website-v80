@@ -1,6 +1,6 @@
 import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
-import React, { useRef } from 'react'
+import { useRef } from 'react'
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 
 const Agence = () => {

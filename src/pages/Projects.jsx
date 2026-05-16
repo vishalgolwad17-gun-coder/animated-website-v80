@@ -1,4 +1,4 @@
-import React from 'react'
+
 import ProjectsList from '../components/projects/ProjectsList'
 import gsap from 'gsap'
 import { useGSAP } from '@gsap/react'

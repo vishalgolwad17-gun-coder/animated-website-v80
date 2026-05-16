@@ -1,5 +1,5 @@
 import { useGSAP } from '@gsap/react'
-import React, { useContext, useRef,useState } from 'react'
+import { useContext, useRef} from 'react'
 import { Link, useLocation } from 'react-router-dom'
 import gsap from 'gsap'
 import {Navcontext} from '../context/Navcontext'
